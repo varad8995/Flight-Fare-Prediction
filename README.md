@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flight-price-prediction-api.herokuapp.com/](http://127.0.0.1:5000/)
 
 
 
