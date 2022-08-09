@@ -7,8 +7,7 @@
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
+ 
 
 
 ## Demo
@@ -39,9 +38,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ## Directory Tree 
 ```
 ├── static 
-│   ├── css
+├── css
 ├── template
-│   ├── home.html
+├── home.html
 ├── Procfile
 ├── README.md
 ├── app.py
