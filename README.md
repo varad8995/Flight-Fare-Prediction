@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](http://127.0.0.1:5000/)
+Link: [Fare Flight Prediction(Local Host)](http://127.0.0.1:5000/)
 
 
 
